@@ -25,20 +25,6 @@ The system leverages deep learning and computer vision techniques to accurately 
   - SuperGradients  
 
 ---
-
-## 📂 Project Structure
-```bash
-Forest-Fire-Detection-using-YOLO-Nas/
-│
-├── dataset/ # Dataset for training/testing
-├── models/ # Saved trained models
-├── notebooks/ # Jupyter notebooks
-├── utils/ # Helper functions
-├── train.py # Model training script
-├── detect.py # Fire detection script
-├── requirements.txt # Dependencies
-└── README.md # Documentation
-```
 ## ⚙️ Installation
 
 ### 1️⃣ Clone the Repository
