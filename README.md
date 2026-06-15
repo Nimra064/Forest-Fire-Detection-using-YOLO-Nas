@@ -56,29 +56,29 @@ python train.py
 ```bash
 python detect.py --source path/to/image_or_video
 ```
-📊 Model Details
+📊 Model Details <br>
 YOLO-NAS is an advanced object detection model built using Neural Architecture Search (NAS). It provides:
 <br>
-Improved accuracy
-Faster inference
-Efficient deployment performance
-📸 Output
-Fire regions detected with bounding boxes
-Confidence scores displayed for predictions
-🎯 Applications
-🌲 Forest monitoring
-🚒 Fire early warning systems
-🛰️ Drone & satellite surveillance
-🏭 Industrial fire detection
-📈 Future Improvements
-Real-time webcam integration
-Web app deployment
-Enhanced dataset for better accuracy
-Alert & notification system
-🤝 Contributing
+1.Improved accuracy <br>
+2.Faster inference <br>
+3. Efficient deployment performance <br>
+📸 Output <br>
+Fire regions detected with bounding boxes <br>
+Confidence scores displayed for predictions <br>
+🎯 Applications <br>
+🌲 Forest monitoring <br>
+🚒 Fire early warning systems <br>
+🛰️ Drone & satellite surveillance <br>
+🏭 Industrial fire detection <br>
+📈 Future Improvements <br>
+Real-time webcam integration <br>
+Web app deployment <br>
+1.Enhanced dataset for better accuracy <br>
+2.Alert & notification system <br>
+🤝 Contributing <br>
 
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
-
+<br>
 📄 License
 
 This project is open-source and available under the MIT License.
