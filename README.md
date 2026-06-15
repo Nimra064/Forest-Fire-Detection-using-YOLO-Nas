@@ -45,26 +45,34 @@ Forest-Fire-Detection-using-YOLO-Nas/
 ```bash
 git clone https://github.com/Nimra064/Forest-Fire-Detection-using-YOLO-Nas.git
 cd Forest-Fire-Detection-using-YOLO-Nas
+```
+```bash
 2️⃣ Create Virtual Environment (Optional)
 python -m venv venv
-
+```
 Activate environment:
-
+```bash
 Windows
 venv\Scripts\activate
 Linux / Mac
 source venv/bin/activate
+```
+```bash
 3️⃣ Install Dependencies
 pip install -r requirements.txt
+```
 ▶️ Usage
+```bash
 🔹 Train the Model
 python train.py
+```
 🔹 Run Detection
+```bash
 python detect.py --source path/to/image_or_video
+```
 📊 Model Details
-
 YOLO-NAS is an advanced object detection model built using Neural Architecture Search (NAS). It provides:
-
+<br>
 Improved accuracy
 Faster inference
 Efficient deployment performance
